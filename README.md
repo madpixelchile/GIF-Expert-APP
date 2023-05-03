@@ -3,18 +3,18 @@
 
 Este es mi repo de GIF expert APP test
 
-# Tech
+## Tech
 
 React +  Vit
 
-# Install 
+## Install 
 
 yarn
 
-# Test
+##  Test
 
 yarn dev
 
-# Build
+## Build
 
 yarn build
